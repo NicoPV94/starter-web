@@ -8,6 +8,10 @@ This example is to show different parts of git
 
 ## Purpose
 
+As stated above, the main purpose is to test
+
 ## Deployment
+
+Deployment can be on any web server
 
 ## How to contribute
