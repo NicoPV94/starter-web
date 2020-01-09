@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This is a simple web site project to test git.
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from
+myfeature branch.
 
 ## Introduction
 
