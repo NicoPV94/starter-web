@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This is a simple web site project to test git.
-Adding a line for rebasing example, then more changes from
-myfeature branch.
+Emergency fix after stash`
 
 ## Introduction
 
@@ -22,4 +21,4 @@ Please fork this repository and then issue pull request for review
 
 ## Copyright
 
-2020 Git. Training. All rights reserved.
+2020 Git. Training. All rights reserved.`
