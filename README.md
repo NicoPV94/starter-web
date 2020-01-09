@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a simple web site project to test git
+This is a simple web site project to test git.
+Adding a line for rebasing example.
 
 ## Introduction
 
